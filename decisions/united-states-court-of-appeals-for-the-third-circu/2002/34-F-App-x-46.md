@@ -1,0 +1,51 @@
+---
+court: "United States Court of Appeals for the Third Circuit"
+docket: "01-2595"
+decided: "2002-04-29"
+citations: ["34 F. App'x 46"]
+parties: ["NEWARK, N.A.A.C.P.; Jersey City N.A.A.C.P.; New Jersey State Conference, N.A.A.C.P.; National Association for the Advancement of Colored People, Appellees, v. TOWN OF KEARNY, NEW JERSEY, Appellant."]
+source_url: "https://static.case.law/f-appx/34/cases/0046-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 532004
+cites_cases: ["108 U.S. 24", "212 F.3d 180", "246 F.3d 267", "28 U.S.C. § 1291", "309 U.S. 323", "545 F.2d 363", "551 F.2d 918"]
+---
+
+# Newark, N.A.A.C.P. v. Town of Kearny
+
+## Head matter
+
+NEWARK, N.A.A.C.P.; Jersey City N.A.A.C.P.; New Jersey State Conference, N.A.A.C.P.; National Association for the Advancement of Colored People, Appellees, v. TOWN OF KEARNY, NEW JERSEY, Appellant.
+No. 01-2595.
+United States Court of Appeals, Third Circuit.
+Argued April 11, 2002.
+Opinion Filed April 29, 2002.
+Gregory J. Castaño, Jr., Esq. (Argued) Waters, McPherson, McNeill, Secaucus, N.J., for Appellant.
+Joshua N. Rose, Esq. (Argued) David L. Rose, Esq., Washington, D.C., for Appellees.
+Before McKEE, FUENTES, Circuit Judges, and POGUE, U.S. Court of International Trade.
+
+## Majority (McKEE, Circuit Judge.)
+
+OPINION OF THE COURT
+McKEE, Circuit Judge.
+The Town of Kearny, New Jersey appeals an order the district court entered pursuant to Kearny’s motion to dissolve a modified consent decree. Kearny originally entered into that consent decree on January 3, 1992 with the National Association for the Advancement of Colored People (“NAACP”), following a suit the latter filed over Kearny’s hiring practices. For the reasons that follow, we conclude that we lack jurisdiction over this appeal.
+I.
+As we write only for the parties, we need not reiterate the facts relevant to this appeal except insofar as they may be helpful to our brief discussion of the issues. Under 28 U.S.C. § 1291, “the courts of appeals ... shall have jurisdiction over appeals from all final decisions of the district courts!.]” 28 U.S.C. § 1291 (2002). A final decision is one which “terminates the litigation between the parties on the merits of the case and leaves nothing to be done but to enforce by execution what has been determined.” Richerson v. Jones, 551 F.2d 918, 922 (3d Cir.1977), quoting St. Louis, Iron Mountain & S. Ry. Co. v. S. Express Co., 108 U.S. 24, 28-29, 2 S.Ct. 6, 27 L.Ed. 638 (1883).
+The Supreme Court has explained that this “final judgment rule” was written into the first Judiciary Act and has been departed from only when observance of it would practically defeat the right to any review at all.... Congress from the very beginning has, by forbidding piecemeal disposition on appeal of what for practical purposes is a single controversy, set itself against enfeebling judicial administration. Thereby is avoided the obstruction to just claims that would come from permitting the harassment and cost of a succession of separate appeals from the various rulings to which litigation may give rise, from its initiation to entry of judgment.
+Cobbledick v. United States, 309 U.S. 323, 324-25, 60 S.Ct. 540, 84 L.Ed. 783 (1940) (internal citations omitted). Similarly, in Bachowski v. Usery, 545 F.2d 363 (3d Cir. 1976), we noted that “[t]he hostility towards piecemeal appeals expressed by the final judgment rule has a strong basis in logic and practicality.” Bachowski, 545 F.2d at 368. Forbidding appeals of interlocutory orders not only “achieves significant savings in time and resources on the part of litigants and courts! ]” but also “deprive[s] litigants of a tool that could possibly be used to harass parties with lesser resources, and [ ] drive them into submission.” Id. at 368-69.
+Here, Kearny claims that the district court denied its motion to dissolve the consent decree, and therefore, delivered a final judgment that is ripe for appellate review. The NAACP, on the other hand, argues that we lack jurisdiction because the district court merely deferred ruling on the motion, and thus did not render a final decision on the merits. Kearny’s motion to dissolve the consent decree consisted of a motion accompanied by a letter and two certifications by Kimberly Bennett, the town’s EEO Officer. At the ensuing hearing, the judge told Kearny’s counsel that the information in the Bennett certifications was not organized or distilled in a manner that allowed her to conduct a meaningful inquiry into whether Kearny had demonstrated “substantial compliance” with the terms of the consent decree:
+THE COURT:.... I am saying, as the Judge sitting here, trying to do my best, the showing that was made was not telling me the kinds of things that I would like to rest findings on. It is a whole lot of undifferentiated stuff and claims that we did what we had to do. My feeling is that you folks have to decide, as the Town of Kearny, what you believe ..., tell[s] the story for me
+If all the information is in here, and your adversary suggests it may be. Then it has to be brought down to size and explained to me, how the compliance bore fruit, irradiated [sic] any suggestion that there was a discriminatory policy going on ...
+A3 060-061.
+The judge summed up: “I am just saying, I can’t make a decision on what I have here now, I just simply can’t.” Id. at 061-062. The judge then informed the parties that she was going to deny the motion without prejudice and she ordered Kearny to provide the NAACP with more helpful information:
+THE COURT: My ruling today is basically going to be that, I am denying the application now. We will set some time-frames for an exchange of material between the parties. Meaning from the Town to the NAACP. And I am going to be very very open about what you believe would be appropriate to fill that gap that I am saying exists in terms of my ability to make a decision. But one of the things that I am certainly going to want to know is, what the town said its hires were in the intervening three and a half years to be affected, which hires were affected by this consent decree..... But I don’t even have that basic information in order to talk about substantial compliance.
+Id. at 062-63.
+The court also asked the parties to schedule a status conference once Kearny provided the NAACP with the necessary materials. The judge assured Kearny that its motion could be revisited at the status conference:
+THE COURT: That is all you have to do. Talk to them. Tell them that is what you are going to be telling me. And then come and tell me, we’ll set down a status conference date off the record. At that status conference date we’ll determine what we do with your motion. Because I am not denying it for all time. I am saying at the present time the showing hasn’t been made. Everybody understand kind of what I am doing here? I want to end this motion by denying it. But I am not ending the inquiry.
+Id. at 064.
+Therefore, although the judge stated she was “denying” the motion, it is clear that she did so in order to avoid keeping it open on her docket while Kearny collected the necessary materials. See United States Securities and Exch. Comm’n v. Infinity Group Co., 212 F.3d 180, 197 (3d Cir.2000) (“Matters of docket control and scheduling are within the sound discretion of the district court.”). It is evident that the judge did not deny the motion on the merits, or foreclose Kearny’s pursuit of relief. In fact, the judge invited Kearny to speak to opposing counsel, schedule a meeting with the court, and renew the motion once the parties gave her enough appropriate information that would allow her to make an informed ruling. The judge told counsel:
+THE COURT: If you give me that stuff I can do my job. Right now it [the motion] is denied without prejudice to renewing it again after we deal with the information exchanged that we’ve talked about.
+Id. at 066.
+We have held that a court has the inherent power to enforce or modify a consent decree in response to changed conditions. See Holland v. New Jersey Dep’t of Corrections, 246 F.3d 267, 270 (3d Cir.2001). A court’s broad equitable powers also extend to lengthening the effective time period of a consent decree. See id. However, a court cannot properly modify or dissolve a consent decree without making specific findings of fact to support the exercise of its inherent equitable power. See id. at 271. Such findings not only guide the exercise of the district court’s discretion, they also facilitate appellate review. “[A] Court of Appeals should not be required to scour the District Court’s records and transcripts, without specific guidance, in order to construct specific findings of fact that support the District Court’s Order[.]” Id. at 285. Similarly, the district court should not have to “scour” records and certifications without specific guidance to determine if a party asking it to exercise its equitable powers is entitled to the requested relief.
+The practical effect of the court’s decision here was merely to defer ruling on the merits of the motion until after Kearny’s exchange of materials with the NAACP and with the court. The district court did not “terminate[ ] the litigation between the parties on the merits of the case.... ” Richerson, 551 F.2d at 922, quoting St. Louis, Iron Mountain & S. Ry. Co., 108 U.S. at 28, 2 S.Ct. 6. Thus, it was not a final judgment.
+Rather, the district court merely attempted to approach this litigation with an eye toward having two parties that had already successfully negotiated a consent decree sit down and discuss their differences under circumstances that would allow each to be fully informed of the other’s position. The court further provided Kearny with an opportunity to renew the motion if the issue was not resolved through the discussions. Kearny chose to take an appeal rather than follow the district judge’s practical and reasonable instructions. Although Kearny’s desire to finally resolve this matter may be understandable, it is clearly not an adequate basis to support our jurisdiction where no final order exists. Inasmuch as there is no final judgment we will dismiss this appeal without prejudice for lack of jurisdiction.
+For the reasons outlined above, we will dismiss the appeal.
