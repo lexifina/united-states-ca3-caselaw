@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for the Third Circuit"
+docket: "01-3848"
+decided: "2002-06-10"
+citations: ["36 F. App'x 69"]
+parties: ["UNITED STATES of America v. Kendra MAYO, Appellant"]
+source_url: "https://static.case.law/f-appx/36/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 148115
+cites_cases: ["273 F.3d 557"]
+---
+
+# United States v. Mayo
+
+## Head matter
+
+UNITED STATES of America v. Kendra MAYO, Appellant
+No. 01-3848.
+United States Court of Appeals, Third Circuit.
+Submitted Under Third Circuit L.A.R. 34.1(a) June 5, 2002.
+Filed June 10, 2002.
+Before SCIRICA BARRY, and WEIS, Circuit Judges.
+
+## Majority (WEIS, Circuit Judge.)
+
+OPINION
+WEIS, Circuit Judge.
+Defendant Kendra Mayo pleaded guilty to conspiracy to import cocaine into the United States from May 15 through May 21, 2000, contrary to 21 U.S.C. 952 and 963. The District Court calculated her offense level under the Guidelines at 19 and sentenced defendant to 30 months imprisonment. The Court declined to exercise its discretion to depart downward on the basis of Mayo’s allegations of duress and coercion. Nor was it persuaded that her sentence must be consistent with that imposed on a co-defendant.
+During the plea colloquy, the district judge reviewed the terms of the agreement concerning a waiver of appeal. He asked, “Now, Miss Mayo, you agree that provided you are sentenced to a level of ... not more than 19, you are giving up your right to appeal whatever sentence you get, including not only a direct appeal but any collateral appeals.... Do you understand that?” Defendant responded, ‘Yes, sir.”
+In United States v. Khattak, 273 F.3d 557 (3d Cir.2001), this Court approved a defendant’s waiver of the right to appeal as part of a plea agreement. We observed that although the right of appeal is based on statutory rather than constitutional grounds, waivers of that right should be strictly construed. Id. at 562. Thus, if there exist unusual circumstances where a miscarriage of justice would result, such a waiver may be invalidated.
+We have carefully examined the submissions in this case and find no basis for invalidating the waiver.
+Accordingly, the appeal will be dismissed.
