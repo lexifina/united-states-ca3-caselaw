@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Third Circuit"
+docket: "00-3519"
+decided: "2002-02-12"
+citations: ["30 F. App'x 21"]
+judges: ["Before MANSMANN, ROTH and FUENTES, Circuit Judges."]
+parties: ["800 SERVICES INC., a New Jersey corporation, Appellant, v. AT & T CORP., a New York corporation."]
+source_url: "https://static.case.law/f-appx/30/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 431618
+cites_cases: ["101 F.3d 320", "116 S.Ct. 1266", "134 L.Ed.2d 213", "271 F.3d 560", "47 U.S.C. § 415", "516 U.S. 1173", "60 F.3d 1010", "927 F.2d 1283"]
+---
+
+# 800 Services Inc. v. AT & T Corp.
+
+## Head matter
+
+800 SERVICES INC., a New Jersey corporation, Appellant, v. AT & T CORP., a New York corporation.
+No. 00-3519.
+United States Court of Appeals, Third Circuit.
+Submitted Dec. 7, 2001.
+Filed Feb. 12, 2002.
+Before MANSMANN, ROTH and FUENTES, Circuit Judges.
+
+## Majority (ROTH, Circuit Judge.)
+
+MEMORANDUM OPINION
+ROTH, Circuit Judge.
+Plaintiff 800 Services Inc. appeals from the August 3, 2000 Final Order and the subsequent September 18, 2000 interest calculation Order of the United States District Court for the District of New Jersey. 800 Services was an “aggregator” of telecommunications services provided by AT & T. Aggregators pool telecommunications service in order to provide discounted service to their customers. AT & T is a provider of interstate long-distance telecommunications service. The relationship between aggregators and providers is contractual in nature, but the relationship is conducted within the confines of federal law, particularly Title 11 of the Communications Act of 1934; as amended. See U.S.C. § 201, et seq. (West 2000). A contract between the parties required 800 Services to compensate AT & T for any shortfall between the anticipated volume of usage and the actual volume of services provided by AT & T.
+Plaintiffs complaint advanced twelve counts. The Counts included allegations of unjust enrichment, slander and libel under New Jersey state law, intentional interference with prospective economic advantage and similar interference with contractual relations, unfair competition/trade libel and various claims under §§ 201, 202 and 203 of the Communications Act. AT & T counterclaimed for unpaid telephone usage charges, shortfall charges resulting from contractual obligations and prejudgment interest. The Final Order granted AT & T’s motion for summary judgment and awarded judgment on the counterclaim. Our review of a District Court’s Final Order to grant summary judgment is plenary. See Nelson v. County of Allegheny, 60 F.3d 1010, 1012 (3d Cir.1995), cert. denied, 516 U.S. 1173, 116 S.Ct. 1266, 134 L.Ed.2d 213 (1996).
+Summary judgment on the allegations under the Federal Communications Act was properly granted by the District Court, as their prosecution was barred by the applicable statute of limitations. Suits under the Communications Act must be filed within two years of “the time the cause of action accrues.” 47 U.S.C. § 415(b) (West 2000). 800 Services filed its complaint, which alleged violations between September 1990 and July 1995, on April 6,1998.
+800 Services argues, however, that although the most recent alleged violation of the Communications Act occurred more than two years prior to the complaint, the claims are not barred due to the continuing wrong doctrine. The continuing wrong doctrine applies to toll the statute of limitations if there is continuing affirmative wrongful conduct. See Brenner v. Local 514, United Broth. of Carpenters and Joiners of America, 927 F.2d 1283, 1296 (3rd. Cir.1991); see also 287 Corporate Center Associates v. Township of Bridgewater, 101 F.3d 320, 324 (3rd Cir.1996) (not applying the doctrine when there was no affirmative act by the defendant within the statutory period).
+The District Court correctly found the doctrine inapplicable in this matter because there was no continuing affirmative wrongful conduct during the statutory two year period prior to 800 Services filing of the complaint.
+The District Court also properly granted summary judgement on the state law claims. Under New Jersey Law, slander and libel claims must be brought within one year. See N.J. Stat. ANN. § 2A:14-3 (West 2000). 800 Services argues that a six year statute of limitations for trade libel, as opposed to the one year statute of limitations for slander and libel, was applicable. The District Court correctly characterized the statements at issue as slander and libel, not as trade libel. The statements did not constitute trade libel since there is no evidence that AT & T made any false statements regarding 800 Services or its affairs. As such, 800 Services’ claims sound in slander and libel which are barred by the statute of limitations. The District Court properly granted summary judgement on the unjust enrichment and tortious interference state law claims as the claims were unsupported by the evidence. To survive a motion for summary judgment, “[t]he non-moving party must make a showing sufficient to establish the existence of each element of his case on which he will bear the burden of proof at trial.” Huang v. BP Amoco Corp, 271 F.3d 560, 564. (3rd Cir.2001); see Fed.Rules Civ.Proc.Rule 56(c), 28 U.S.C.A. To support its unjust enrichment claim, 800 Services alleged that AT & T improperly used its customer lists and profited from such conduct without apportioning profits to 800 Services. The District Court found that 800 Services offered no admissible evidence in support of this contention and that the deposition testimony was based on speculation, conjecture and industry “buzz.” Such evidence was properly found insufficient, as it would not carry the burden of proof at trial. Plaintiffs brief on appeal does allege that AT & T would not have been able to switch customers from 800 Services’s accounts to AT & T’s without abuse of the customer lists.
+However, the brief does not set forth any causal connection between the customer list abuse and the switching of telecommunications providers. An individual consumer’s choice to switch providers could be based on a number of different factors and, therefore, does not necessarily evidence any impropriety on the part of AT & T.
+Similarly, the District Court found a lack of evidence in support of 800 Services’s tortious interference claims. Although 800 Services presumptively argues on appeal that the business would have continued to flourish but for AT & T’s actions, it offers no details to support that contention.
+Finally, 800 Services contests the District Court’s award of damages under AT & T’s counterclaim. The agreement between the parties was controlled by the Tariff No. 2. Tariff No. 2 requires that the aggregator pay the provider for usage and shortfall charges. 800 Services has not contested incurring usage charges or the amounts thereof. Rather, 800 Services claims that AT & T violated an implied covenant of good faith and fair dealing in the contract execution. As discussed above, the District Court found a lack of evidence of slander, libel and tortious interference. Accordingly, we find that the District Court did not err in awarding damages for unpaid usage and shortfall charges to AT & T. These counterclaim defenses offered by 800 Services mirror the claims offered in the complaint; the defenses similarly lack the requisite evidentiary foundation. For the reasons above we affirm the District Court.
