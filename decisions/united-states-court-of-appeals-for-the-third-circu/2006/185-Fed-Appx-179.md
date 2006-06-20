@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the Third Circuit"
+docket: "04-4017"
+decided: "2006-06-20"
+citations: ["185 Fed.Appx. 179"]
+reporter: "br"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: FISHER, ALDISERT and WEIS, circuit Judges."]
+parties: ["In re Andrew EZEKOYE, Debtor. Andrew Ezekoye, Appellant, v. *Ocwen Loan Servicing, LLC, successor to Ocwen Federal Bank FSB."]
+source_url: "https://static.case.law/br/349/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 630756
+cites_cases: ["109 F.3d 873", "124 S.Ct. 906", "126 S.Ct. 403", "28 U.S.C. § 158", "540 U.S. 443"]
+---
+
+# Ezekoye v. Ocwen Loan Servicing, LLC (In re Ezekoye)
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+Andrew Ezekoye, proceeding pro se, appeals an order of the United States District Court for the Western District of Pennsylvania affirming an order of the United States Bankruptcy Court. We will dismiss this appeal because Ezekoye’s appeal from the Bankruptcy Court’s order was untimely.
+Ezekoye executed a mortgage which was assigned to Ocwen Federal Bank FSB. After Ezekoye defaulted on the mortgage, Ocwen brought a mortgage foreclosure action in Pennsylvania state court and obtained a judgment in its favor. Ezekoye then filed a complaint against Ocwen in state court alleging fraud related to the mortgage transaction. Ocwen did not respond to the complaint, and Ezekoye obtained a default judgment in his favor. When Ocwen learned of the default judgment, it filed a motion to strike and/or open the default judgment in state court. Ezekoye and Ocwen consented to the removal of the action to Bankruptcy Court, where Ezekoye had filed a bankruptcy petition. The Bankruptcy Court construed Ocwen’s filing as a motion for relief from the judgment under Federal Rule of Civil Procedure 60(b), and granted it on April 30, 2004.
+On May 10, 2004, Ezekoye moved for an extension of time to file a motion for reconsideration of the Bankruptcy Court’s order granting Ocwen relief from the judgment. The Bankruptcy Court granted the motion, and denied the motion for reconsideration in an order entered June 18, 2004. On July 8, 2004, Ezekoye filed a notice of appeal. The District Court affirmed the Bankruptcy Court’s order granting Ocwen relief from the default judgment. This appeal followed.
+We have jurisdiction pursuant to 28 U.S.C. § 158(d). We previously issued an order directing the parties to address whether the Bankruptcy Court had the authority to extend the time to file a motion for reconsideration, and if not, to discuss the scope of the appeal filed in the District Court. After we issued our order, the Supreme Court decided Eberhart v. United States, — U.S. -, 126 S.Ct. 403, 407, 163 L.Ed.2d 14 (2005), and held that the rules setting forth time limits for a motion for a new trial are not jurisdictional, but claim-processing rules, and a party may forfeit an untimeliness defense by not timely raising it.
+Eberhart involved Federal Rule of Criminal Procedure 33, which sets forth the time to file a motion for a new trial, and Rule 45, which limits a court’s ability to extend the time to take action under Rule 33. The court of appeals had allowed the government to raise noncompliance with the time limitations for the first time on appeal. Because the government did not raise this defense in the district court, the Supreme Court held that the court of appeals should have proceeded to the merits. Id. In so ruling, the Supreme Court looked to its decision in Kontrick v. Ryan, 540 U.S. 443, 456, 124 S.Ct. 906, 157 L.Ed.2d 867 (2004), which held that a party may forfeit the defenses made available by the time limitations of Federal Rules of Bankruptcy Procedure 4004 and 9006, which govern the time that a creditor may object to a debtor’s discharge in a Chapter 7 liquidation proceeding.
+Ocwen did not argue in Bankruptcy Court (or in the District Court) that the Bankruptcy Court lacked the authority to enlarge the time to file the motion for reconsideration. Under Eberhart, Ocwen has forfeited any argument that the motion for reconsideration was untimely, and did not toll the time to appeal the order granting relief from the default judgment.
+Ocwen, however, did argue in the District Court, and argues in this Court, that Ezekoye’s appeal to District Court was untimely because he filed it more than ten days after the Bankruptcy Court denied his motion for reconsideration. We agree. The Federal Rules of Bankruptcy Procedure require that a notice of appeal be filed within ten days of the date of the entry of the order appealed from. Fed. R. Bank. P. 8002(a). Ezekoye filed his notice of appeal on July 8, 2004, more than ten days after the Bankruptcy Court entered its June 17, 2004 order denying reconsideration.
+Ezekoye claims that he did not promptly receive the Bankruptcy Court’s order. Ezekoye, however, failed to request an extension of time to file an appeal. Rule 8002 allows the bankruptcy judge to extend the time for filing a notice of appeal in certain cases. Fed. R. Bank. P. 8002(c)(1). Such a request must be made by written motion filed before the time for filing a notice of appeal has expired, except that such a motion filed not later than twenty days after the expiration of the time for filing a notice of appeal may be granted upon a showing of excusable neglect. Fed. R. Bank. P. 8002(c)(2).
+Ezekoye filed a motion in District Court to file his appeal out of time on August 9, 2004, a month after he filed his notice of appeal. Even if Ezekoye had filed his motion in Bankruptcy Court as Rule 8002 requires, the motion was filed more than twenty days after the time to file a notice of appeal expired, and was untimely. Shareholders v. Sound Radio, Inc., 109 F.3d 873, 879 (3d Cir.1997) (stating that excusable neglect could not be found where the issue was raised for the first time after Rule 8002’s time limit expired).
+We note that this is not the ease of mere inadvertence by a pro se litigant. Ezekoye has brought at least five appeals in this Court, and seven appeals in the District Court. Ezekoye is not exempt from the rules of procedure. Accordingly, because Ezekoye did not timely appeal the Bankruptcy Court’s order, we will dismiss this appeal.
+. This motion was docketed in W.D. Pa. Civ. No. 04-cv-01151, which was later consolidated in District Court with the present appeal because the appeals were duplicative. It does not appear that the District Court ruled on the motion to file an appeal out of time.
+. Prior to Eberhart, we held that the failure to file a timely notice of appeal from the Bankruptcy Court creates a jurisdictional defect barring appellate review. Shareholders, 109 F.3d at 879. Under Eberhart, the time limits of Rule 8002 are not jurisdictional, but "assure relief to a party properly raising them.” See Eberhart, 126 S.Ct. at 407.
+. Ezekoye's motion to strike a document and impose sanctions, and second motion to strike a document and impose sanctions, are denied.
