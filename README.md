@@ -10,7 +10,7 @@ per decision, dated the day it was decided. 45,906 decisions from 1891-11-18 to 
 | Question | Command |
 |---|---|
 | A decision by its citation | `grep -P '^410 U.S. 113\t' decision-index.tsv` then `cat <path>` |
-| Decisions given in a window | `git log --since=1973-01-01 --until=1973-01-31 --format='%ad %an' --date=short` |
+| Decisions given in a window | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' \| awk '$1 >= "1973-01-01" && $1 <= "1973-01-31"'`: read the `In-force:` trailer, not the commit date (see Corrections), or use the global-law tools |
 | Decisions citing 11 U.S.C. § 1182 | `cat judgments/united-states/federal/usc/title-11/1182.jsonl` |
 | The section as the court applied it | each overlay row's `law_commit` is the section's own version in the US Code record on the day decided (or `law_record_from` when the decision is older than the record) |
 | Who wrote a line? | `git blame decisions/...`: each line is credited to the decision (court and citation) |
@@ -36,3 +36,17 @@ its courts in CAP that was not here by its CAP id, nor as the same case (day and
 was appended as its own commit, dated the day decided, after the decisions already here (the history is append-only, so
 they are not in date order; the tools read each decision's own date). Their head matter, the publisher's text, is left
 out. Now 55,363 decisions.
+
+## Corrections (2026-11-09)
+An independent check of the CAP case-law repos found data defects; they are fixed here by new commits on top of the
+history (nothing is rewritten). Now 55,373 decisions.
+
+- 10 decisions added, each as its own commit dated the day decided, in date order: decisions with text the first build missed (volumes whose extract was lost, decisions merged with a different decision of the same day, docket and name, decisions CAP files under no court name or under another place's jurisdiction).
+- decision-index.tsv: 1,723 rows added (the citations and CAP ids of decisions held here under another reporter, and of the new decisions), 0 rows that gave a citation to a different decision removed.
+- `decision-relations.tsv` lists 524 files as `same-decision-as` another file here: decisions the CAP append added although the same decision (same day, docket or name, and text) was already here. Both files are kept; the tools read the relation.
+- `decision-dates.tsv` lists the 23 decisions whose CAP date gives only the month or the year (precision `month` or `year`); they are committed on the first day of it, and In-force says that day.
+
+Dates in the commit history: git cannot hold dates before 1970, so a decision before 1970 is committed from 1970-01-01 noon UTC-5, a second apart.
+Here 11,333 decisions are before 1970, so 51 of their commits are dated 1970-01-02 or later, 51 of them in or after April 1970 (an append continued an earlier count). The commit date is not the day decided: `git log --since/--until` over 1970 mixes them with the decisions of 1970. Read the `In-force:` trailer (as the window recipe above now does) or use the global-law tools.
+
+Head matter differs by when a decision came in: this repo's first build, from the Caselaw Access Project, includes each decision's head matter (syllabus, headnotes, counsel) in its file; the decisions appended later from the CAP bulk data leave it out (the publisher's text, not the court's), except where CAP has no opinion text, where the file gives the head matter under `## CAP head matter`. A text search over head-matter words therefore finds them only in the first build's decisions.
